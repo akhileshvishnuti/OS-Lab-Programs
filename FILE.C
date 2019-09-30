@@ -91,8 +91,8 @@ case 2:
 dcnt=0;
 while(ch1!=6)
 {
-printf("\n\n 1. Create Directory\t 2. Create File\t 3. Delete File");
-printf("\n 4. Search File \t \t 5. Display \t 6. Exit \n Enter your choice -- ");
+printf("\n\n 1. Create Directory\t 2. Create File\t 3. Delete File"); // Menu
+printf("\n 4. Search File \t \t 5. Display \t 6. Exit \n Enter your choice -- "); // Memu
 scanf("%d",&ch1);
 switch(ch1)
 {
