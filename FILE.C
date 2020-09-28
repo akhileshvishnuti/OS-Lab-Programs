@@ -3,7 +3,7 @@
 #include<graphics.h>
 struct
 {
-char dname[10],fname[10][10];
+char denim[10],fname[10][10];
 int fcnt;
 }dir;
 struct
